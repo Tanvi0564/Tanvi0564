@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++<br>👯 I’m looking to collaborate onoracle<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning OOP<br>💬 Ask me about Coding<br>⚡ Fun fact:Coding is not so fun
+🔭 I’m currently working on C++<br>👯 I’m looking to collaborate onoracle<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning OOP<br>💬 Ask me about Coding<br>⚡
 
 
 ## 🌐 Socials:
